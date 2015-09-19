@@ -1,6 +1,6 @@
 Package: xergm
-Version: 1.5.1
-Date: 2015-08-03
+Version: 1.5.2
+Date: 2015-09-19
 Title: Extensions of Exponential Random Graph Models
 Authors@R: c(
   person(given = "Philip", family = "Leifeld", email = "philip.leifeld@eawag.ch", role = c("aut", "cre")), 

@@ -5,7 +5,7 @@
     'Package:  xergm\n', 
     'Version:  ', desc$Version, '\n', 
     'Date:     ', desc$Date, '\n', 
-    'Authors:  Philip Leifeld (Eawag (ETH) and University of Bern)\n',
+    'Authors:  Philip Leifeld (Eawag and University of Bern)\n',
     '          Skyler J. Cranmer (The Ohio State University)\n',
     '          Bruce A. Desmarais (Penn State University)', 
     '\n\nPlease cite the xergm package in your publications ', 
