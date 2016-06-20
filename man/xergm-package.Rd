@@ -6,14 +6,14 @@
 \details{
 The \pkg{xergm} package implements extensions of exponential random 
 graph models, in particular Temporal ERGMs (\pkg{btergm}),  
-Generalized ERGMs (\pkg{gergm}), Temporal Network Autocorrelation 
+Generalized ERGMs (\pkg{GERGM}), Temporal Network Autocorrelation 
 Models (\pkg{tnam}), and Relational Event Models. This package acts 
-as a meta-package for the packages \pkg{btergm}, \pkg{gergm}, and 
-\pkg{tnam}. To display citation information, type 
+as a meta-package for the packages \pkg{btergm}, \pkg{GERGM}, 
+\pkg{tnam}, and \pkg{rem}. To display citation information, type 
 \code{citation("xergm")}.
 }
 \author{
-Philip Leifeld (\url{http://www.philipleifeld.de})
+Philip Leifeld (\url{http://www.philipleifeld.com})
 
 Skyler J. Cranmer (\url{http://www.skylercranmer.net})
 
