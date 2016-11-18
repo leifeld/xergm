@@ -1,13 +1,14 @@
 Package: xergm
-Version: 1.7.3
-Date: 2016-06-21
+Version: 1.7.4
+Date: 2016-11-18
 Title: Extensions of Exponential Random Graph Models
 Authors@R: c(
   person(given = "Philip", family = "Leifeld", email = "philip.leifeld@glasgow.ac.uk", role = c("aut", "cre")), 
   person(given = c("Skyler", "J."), family = "Cranmer", email = "cranmer.12@osu.edu", role = "aut"), 
   person(given = c("Bruce", "A."), family = "Desmarais", email = "bdesmarais@psu.edu", role = "aut"))
 Description: Extensions of Exponential Random Graph Models (ERGM): Temporal Exponential Random Graph Models (TERGM), Generalized Exponential Random Graph Models (GERGM), Temporal Network Autocorrelation Models (TNAM), and Relational Event Models (REM).
-URL: https://r-forge.r-project.org/projects/xergm/
+URL: http://github.com/leifeld/xergm
 Imports: utils
 Depends: R (>= 2.14.0), xergm.common (>= 1.7.4), btergm (>= 1.7.6), tnam (>= 1.6.2), rem (>= 1.1.2), GERGM (>= 0.7.4)
+Remotes: github::leifeld/xergm.common, github::leifeld/btergm, github::leifeld/tnam, github::brandenberger/rem, github::matthewjdenny/GERGM
 License: GPL (>= 2)
