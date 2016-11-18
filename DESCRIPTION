@@ -10,5 +10,4 @@ Description: Extensions of Exponential Random Graph Models (ERGM): Temporal Expo
 URL: http://github.com/leifeld/xergm
 Imports: utils
 Depends: R (>= 2.14.0), xergm.common (>= 1.7.4), btergm (>= 1.7.6), tnam (>= 1.6.2), rem (>= 1.1.2), GERGM (>= 0.7.4)
-Remotes: github::leifeld/xergm.common, github::leifeld/btergm, github::leifeld/tnam, github::brandenberger/rem, github::matthewjdenny/GERGM
 License: GPL (>= 2)
