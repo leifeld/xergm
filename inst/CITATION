@@ -13,5 +13,5 @@ citEntry(entry="Manual",
   textVersion = paste("Leifeld, Philip, Skyler J. Cranmer and Bruce A. ",
       "Desmarais (", year, "). xergm. Extensions for Exponential Random ", 
       " Graph Models. ", vers, ".", sep = ""),
-  url = "http://CRAN.R-project.org/package=xergm"
+  url = "https://cran.r-project.org/package=xergm"
 )
