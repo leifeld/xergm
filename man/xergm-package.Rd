@@ -17,5 +17,5 @@ Philip Leifeld (\url{http://www.philipleifeld.com})
 
 Skyler J. Cranmer (\url{http://www.skylercranmer.net})
 
-Bruce A. Desmarais (\url{http://polisci.la.psu.edu/people/bruce-desmarais/})
+Bruce A. Desmarais (\url{https://sites.psu.edu/desmaraisgroup/})
 }
