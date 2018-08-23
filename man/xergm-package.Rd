@@ -20,6 +20,7 @@ Skyler J. Cranmer (\url{http://www.skylercranmer.net})
 Bruce A. Desmarais (\url{https://sites.psu.edu/desmaraisgroup/})
 }
 \examples{
+\dontrun{
 # example 1: temporal exponential random graph model (see ?btergm)
 library("statnet")
 set.seed(5)
@@ -73,4 +74,5 @@ model1 <- tnam(
     re.node = TRUE, time.linear = TRUE
 )
 summary(model1)
+}
 }
