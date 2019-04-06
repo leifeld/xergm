@@ -1,3 +1,5 @@
+dist: xenial
+
 language: r
 
 r:
@@ -10,9 +12,24 @@ cache: packages
 
 r_check_args: --as-cran
 
+addons:
+  apt:
+    packages:
+      - r-cran-rcpp
+      - r-cran-ggplot2
+
+r_github_packages:
+  - statnet/ergm
+  - jaredhuling/fastglm
+  - leifeld/xergm.common
+  - leifeld/tnam
+  - leifeld/btergm
+  - matthewjdenny/GERGM
+  - brandenberger/rem
+
 notifications:
   email:
     recipients:
-      - philip.leifeld@glasgow.ac.uk
+      - philip.leifeld@essex.ac.uk
     on_success: change
     on_failure: change
