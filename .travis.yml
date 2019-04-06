@@ -6,7 +6,11 @@ r:
   - devel
   - release
 
-sudo: false
+sudo: required
+
+env:
+  global:
+    - CRAN: http://cran.rstudio.com
 
 cache: packages
 
