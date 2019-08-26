@@ -30,6 +30,7 @@ r_github_packages:
   - leifeld/btergm
   - matthewjdenny/GERGM
   - brandenberger/rem
+  - sduxbury/ergMargins
 
 notifications:
   email:
