@@ -1,6 +1,6 @@
 # xergm
 
-The **xergm** package implements eXtensions for Exponential Random Graph Models (ERGM), in particular temporal ERGMs via bootstrapped pseudolikelihood ([**btergm**](http://github.com/leifeld/btergm) package), generalized ERGMs for value-edged networks ([**GERGM**](http://github.com/matthewjdenny/GERGM) package), the temporal network autocorrelation model ([**tnam**](http://github.com/leifeld/tnam) package), the relational event model ([**rem**](http://github.com/brandenberger/rem) package), and helper functions and datasets in the [**xergm.common**](http://github.com/leifeld/xergm.common) package.
+The **xergm** package implements eXtensions for Exponential Random Graph Models (ERGM), in particular temporal ERGMs via bootstrapped pseudolikelihood ([**btergm**](http://github.com/leifeld/btergm) package), generalized ERGMs for value-edged networks ([**GERGM**](http://github.com/matthewjdenny/GERGM) package), the relational event model ([**rem**](http://github.com/brandenberger/rem) package), and helper functions and datasets in the [**xergm.common**](http://github.com/leifeld/xergm.common) package.
 
 [![Build Status](https://travis-ci.org/leifeld/xergm.svg?branch=master)](https://travis-ci.org/leifeld/xergm)
 [![cran version](http://www.r-pkg.org/badges/version/xergm)](https://cran.r-project.org/package=xergm)
