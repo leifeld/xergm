@@ -12,9 +12,9 @@ This package acts as a meta-package for the packages \pkg{btergm},
 information, type \code{citation("xergm")}.
 }
 \author{
-Philip Leifeld (\url{http://www.philipleifeld.com})
+Philip Leifeld (\url{https://www.philipleifeld.com})
 
-Skyler J. Cranmer (\url{http://www.skylercranmer.net})
+Skyler J. Cranmer (\url{https://polisci.osu.edu/people/cranmer.12})
 
 Bruce A. Desmarais (\url{https://sites.psu.edu/desmaraisgroup/})
 }
