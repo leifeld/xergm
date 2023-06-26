@@ -7,3 +7,6 @@ The **xergm** package implements eXtensions for Exponential Random Graph Models 
 [![downloads](http://cranlogs.r-pkg.org/badges/xergm)](http://cranlogs.r-pkg.org/badges/xergm)
 [![total downloads](http://cranlogs.r-pkg.org/badges/grand-total/xergm)](http://cranlogs.r-pkg.org/badges/grand-total/xergm)
 [![Research software impact](http://depsy.org/api/package/cran/xergm/badge.svg)](http://depsy.org/package/r/xergm)
+
+## Archival note
+This package used to contain common infrastructure and datasets for several packages. But the constituent packages sometimes failed to be updated, which made it difficult to keep this package on CRAN. Hence, the respective functionality and data were moved into the `btergm` package. The `xergm` package is therefore archived because it is now devoid of content. If you read the 2018 article in the Journal of Statistical Software about `xergm` and are wondering how to estimate TERGMs, please just replace any `library("xergm")` calls by `library("btergm")`. So long.
